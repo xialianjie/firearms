@@ -248,20 +248,20 @@ S12K配置：
     attachments: ["7"]
   },
 
-  {
-    id: "8",
-    name: "夜子军工",
-    author: "夜子",
-    createDate: "2025-06-30",
-    category: "乱七八糟的枪",
-    content: `
-- K437突击步枪-烽火地带-6GRI1EG06HO978FAEC0L4(满改红点)      
-- 腾龙突击步枪-烽火地带-6GRI1MK06HO978FAEC0L4（满改红点）              
-- SCAR-H战斗步枪-烽火地带-6GPSQB806HO978FAEC0L4（倍镜性价比scar）
-- K416突击步枪-烽火地带-6GRI20K06HO978FAEC0L4（性价比）    
-- K416突击步枪-烽火地带-6GRI2A806HO978FAEC0L4（满改（红点可以换倍镜）） 
-- SR-3M紧凑突击步枪-烽火地带-6GRI2FS06HO978FAEC0L4（性价比腰射可开镜）                        
-`.trim(),
-    attachments: ["8"]
-  },
+//   {
+//     id: "8",
+//     name: "夜子军工",
+//     author: "夜子",
+//     createDate: "2025-06-30",
+//     category: "乱七八糟的枪",
+//     content: `
+// - K437突击步枪-烽火地带-6GRI1EG06HO978FAEC0L4(满改红点)      
+// - 腾龙突击步枪-烽火地带-6GRI1MK06HO978FAEC0L4（满改红点）              
+// - SCAR-H战斗步枪-烽火地带-6GPSQB806HO978FAEC0L4（倍镜性价比scar）
+// - K416突击步枪-烽火地带-6GRI20K06HO978FAEC0L4（性价比）    
+// - K416突击步枪-烽火地带-6GRI2A806HO978FAEC0L4（满改（红点可以换倍镜）） 
+// - SR-3M紧凑突击步枪-烽火地带-6GRI2FS06HO978FAEC0L4（性价比腰射可开镜）                        
+// `.trim(),
+//     attachments: ["8"]
+//   },
 ];
