@@ -85,9 +85,7 @@ K416配置：
 - 44万：K416突击步枪-烽火地带-6GPFA180FIH98IS93CCNM 
 - 54万：K416突击步枪-烽火地带-6GPF9DC0FIH98IS93CCNM
 
-M4A1配置：
-- M4A1混合流基础版（带镭射）-6GKOMC4049H3TLFDHMKHO
-- M4A1混合流高配版-6GKOMH4049H3TLFDHMKHO
+
 `.trim(),
     attachments: ["1"]
   },
