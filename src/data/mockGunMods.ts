@@ -18,6 +18,10 @@ export const mockGunMods: GunMod[] = [
     category: "步枪",
     content: `
 KC17配置：
+- KC17斜握半改-6GUVB140EU90O684D8QL5
+  高准星稳定 高后坐力控制
+- KC17消音半改-6GUVB740EU90O684D8QL5
+   暗杀版 高据枪 适合自动屏息玩家
 - 丐版：KC17突击步枪-烽火地带-6GPF42O0FIH98IS93CCNM
 - 半改：KC17突击步枪-烽火地带-6GPF4100FIH98IS93CCNM
 - 49万：KC17突击步枪-烽火地带-6GPFEHS00B59RBKSKV84B
@@ -114,6 +118,10 @@ QBZ配置：
     category: "冲锋枪",
     content: `
 SR-3M配置：
+- SR3M高性能半改混合版-6GUL5PG0EU90O684D8QL5
+   原装37万 握把可以换绿握把省钱到33万
+- SR3M高性能腰射版-6GUL62G0EU90O684D8QL5
+   枪口也可以使用俄式精密消音器 价格少1万 腰射少4 提供消音效果
 - 21万：SR-3M紧凑突击步枪-烽火地带-6GPFQM80FIH98IS93CCNM 
 - 55万：SR-3M紧凑突击步枪-烽火地带-6GPFR5K0FIH98IS93CCNM 
 
